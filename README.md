@@ -2,7 +2,7 @@
 
 Benvenuto nel mio portfolio digitale, sviluppato per presentare il mio percorso professionale, le competenze acquisite e i progetti realizzati durante il Master UX/UI Design presso Start2Impact.
 
-🔗 **Sito live**: [https://roxanachircusi.github.io/Portfolioroxana2025/](https://roxanachircusi.github.io/Portfolioroxana2025/)
+🔗 **Sito live**:(https://roxanachircusi.github.io/2025Portfolio/)
 
 ---
 

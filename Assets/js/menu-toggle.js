@@ -5,3 +5,4 @@ const menu = document.querySelector('.central-menu');
 toggleButton.addEventListener('click', () => {
   menu.classList.toggle('show');
 });
+

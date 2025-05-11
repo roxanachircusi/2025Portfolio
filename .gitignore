@@ -1,7 +1,2 @@
-# Esclude file generati da macOS
 .DS_Store
-
-# Esclude file Git non necessari
 .gitattributes
-
-
